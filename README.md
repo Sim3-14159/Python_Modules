@@ -1,6 +1,9 @@
 # Python_Modules
 #### This repository contains my best home made Python modules.
 
+> [!IMPORTANT]
+> This repository kind of sucks but I made it when I was new to coding and it was a good learning tool. Anyway, I'm adding this message because I'm archiving it, mostly as a note to myself.
+
 ---
 ## [`constants`](constants.py)
 This module allows you to use constants in Python. 
